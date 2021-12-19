@@ -1,12 +1,17 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/p180x540/268294000_4661489250585095_1927774151679378323_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGUj8CkWtEh2cmYX7abXybg-_IgwILK5v_78iDAgsrm_wAt-0Q1wOXzUke08KWPVXVoY0VKi-Ak-Tmqnd9NmTFD&_nc_ohc=tGvlhGQirmMAX8Q82kH&tn=2oxP8uaZ4Ia3yeBW&_nc_ht=scontent.fdac5-2.fna&oh=00_AT9Ak5XLpY5xq6MPNYVc_XWlWM__f5sDE-NCsdmPuApwWA&oe=61C48538)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋, I'm Anik Shajol
+#### Web Developer
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Nothing to say right now
 
-- 🔭 I’m currently working on this page. 
+Skills: HTML / CSS
+
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning Full Stack Web development 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: On social media..... 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anik-shajol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anikshajol/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anikshajol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anikshajol/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anikshajol)  
